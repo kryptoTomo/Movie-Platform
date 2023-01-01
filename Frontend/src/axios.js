@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-    baseURL: 'movie-platform-production.up.railway.app'
+    baseURL: 'https://movie-platform-backend.onrender.com'
 });
 
 export default instance;
