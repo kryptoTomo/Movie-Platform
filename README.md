@@ -42,5 +42,20 @@ API Serwera
 * @app.post('/make-friends') - dodanie znajomego
 * @app.post('/delete-friends') - usunięcie znajomego
 
+Baza danych neo4j
+=================
+
+Wdrożenie
+===========
+Przed wdrożeniem aplikacji konieczne jest ustawienie zmiennych łączących z bazą grafową neo4j w backendzie w pliku credentials.py:
+* uri - adres URI do bazy danych Neo4j,
+* user - nazwa użytkownika do bazy danych Neo4j,
+* password - hasło do bazy danych Neo4j.
+
+Backe
+
+Interfejs Użytkownika
+===========
+
 
 
