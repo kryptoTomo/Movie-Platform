@@ -5,8 +5,8 @@ Wstęp
 Celem projektu było stworzenie projektu typu POC(proof of concept) pokazującą zalety wykorzystania grafowej bazy danych. Aplikacja reprezentuje prostą platformę polecającą filmy, w której należy sie zalogwać po czym możemy przeglądać całą bazę, czy też skorzystać z polecanych filmów przez znajomych.
 
 Aplikacja Dostępna pod linkami:
-* Link backendu:https://movie-platform-production.up.railway.app/
-* Link frontendu:https://movie-platform.onrender.com/
+* Link backendu:https://movie-platform-backend.onrender.com
+* Link frontendu:https://movie-platform.onrender.com
 
 
 Technologie & biblioteki
