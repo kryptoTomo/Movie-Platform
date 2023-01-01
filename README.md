@@ -52,7 +52,21 @@ Przed wdrożeniem aplikacji konieczne jest ustawienie zmiennych łączących z b
 * user - nazwa użytkownika do bazy danych Neo4j,
 * password - hasło do bazy danych Neo4j.
 
-Backe
+Wdrożenie backendu:
+--------------------
+
+Należy zalogować się na stronę render.com, udostępnić projekt z githuba i uzupełnić w poniższy sposób:
+![alt text](images/backend.png)
+
+Po prawidłowym wdrożeniu powinniśmy uzyskać wynik taki jak na poniższym zdjęciu.
+![alt text](images/backend_working.png)
+
+Wdrożenie frontendu:
+--------------------
+Na początek należy link URL do backendu, w naszym przypadku: https://movie-platform-backend.onrender.com, należy umieścić ten link w lini https://github.com/kryptoTomo/Movie-Platform/blob/82d805de5cdd653b9bf20eeca90a32364e9259dd/Frontend/src/axios.js#L4
+
+Po tak przygotowanym projekcie możemy przejść do właświego wdrożenia na stronie render.com
+
 
 Interfejs Użytkownika
 ===========
