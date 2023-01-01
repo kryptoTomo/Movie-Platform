@@ -66,7 +66,10 @@ Wdrożenie frontendu:
 Na początek należy link URL do backendu, w naszym przypadku: https://movie-platform-backend.onrender.com, należy umieścić ten link w lini https://github.com/kryptoTomo/Movie-Platform/blob/82d805de5cdd653b9bf20eeca90a32364e9259dd/Frontend/src/axios.js#L4
 
 Po tak przygotowanym projekcie możemy przejść do właświego wdrożenia na stronie render.com
+![alt text](images/frontend.png)
 
+Po prawidłowym wdrożeniu powinniśmy uzyskać wynik taki jak na poniższym zdjęciu.
+![alt text](images/frontend_working.png)
 
 Interfejs Użytkownika
 ===========
